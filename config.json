@@ -1,0 +1,7 @@
+{
+    "token": "MTAyMjc3ODcwODA2MDI5MTExMg.GUxRlu.wY9UALSJlDVsTsiEW5-PtOxkUNveOYOB1XHVSY",
+    "clientId": "1022778708060291112",
+    "prefix": "!",
+    "blacklisted": "false",
+    "mongodb": "mongodb+srv://DATABASE-DB:5w1LQOq4ZwcoRXbG@cluster0.41xvv12.mongodb.net/?retryWrites=true&w=majority"
+}
